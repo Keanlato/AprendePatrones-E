@@ -1,0 +1,4 @@
+#Wed Dec 25 21:52:39 COT 2019
+base.0=D\:\\Documentos\\UNIVERSIDAD\\OCTAVO SEMESTRE\\EMPRENDIMIENTO\\Aprende patrones\\AprendePatrones\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

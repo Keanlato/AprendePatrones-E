@@ -1,0 +1,4 @@
+#Fri Dec 20 09:14:10 COT 2019
+base.0=D\:\\Documents\\Android Projects\\AprendePatrones\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

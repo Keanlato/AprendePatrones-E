@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aprende Patrones</string>
+    <string name="nivelFacil">Fácil</string>
+    <string name="nivelIntermedio">Intermedio</string>
+    <string name="nivelDificil">Dificil</string>
+    <string name="ban_publicidad1">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ban_publicidad2">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ban_publicidad3">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ban_publicidad4">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

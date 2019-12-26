@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417087376460",
+    "firebase_url": "https://aprendepatrones.firebaseio.com",
+    "project_id": "aprendepatrones",
+    "storage_bucket": "aprendepatrones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417087376460:android:4294180a4db56d2508f8e9",
+        "android_client_info": {
+          "package_name": "com.kadama.aprendepatrones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417087376460-aoq17o770gbj53aa49tm3on6leknpsr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kadama.aprendepatrones",
+            "certificate_hash": "fb3900edb9afa6582e710e05f906cd2d5db2ee63"
+          }
+        },
+        {
+          "client_id": "417087376460-vptimbetim31lqotgs1barklgrbjcso0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRdeAzkE4DbOZ6lRU_ZJ4kdI3Wo0J7tmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417087376460-vptimbetim31lqotgs1barklgrbjcso0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
